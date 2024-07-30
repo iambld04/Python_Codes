@@ -32,16 +32,16 @@ d11 = {'name': 'Bld','email':'Bld@gmail.com','subject': ['dsa','big data','progr
     'FSDS': '29th april 23','DSM':"25th june 23"}}
 
 print(d11)
-print(d11["Date"]["DSM"])
+print(d11["Date"]["DSM"])   #to access 'Date' key and it has a key named 'DSM' to access it
 
-d11["batches"] = "Binary 2.0"
+d11["batches"] = "Binary 2.0"   #adds the 'batches' key to the dictionary d11
 print(d11)
 
-del d11["email"]
+del d11["email"]    #deletes the email key from the dictionary
 print(d11)
 
-print(d11.keys())
-print(d11.values())
-print(d11.items())
+print(d11.keys())     #to get all the keys present in the dictionary   dict_keys
+print(d11.values())     #to get all the values present in the dictionary   dict_values
+print(d11.items())      #to return keys and values in the form of tuple   dict_items
 
-print(d11.clear())
+print(d11.clear())      #to clear the dictionary
