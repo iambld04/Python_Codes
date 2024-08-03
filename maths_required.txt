@@ -1,0 +1,77 @@
+1. LINEAR ALGEBRA
+    * Vectors
+    * Matrices
+    * Transpose of a matrix
+    * Inverse of a matrix
+    * Determination of a matrix
+    * Trace of a matrix
+    * Dot Product
+    * Eigenvalues
+    * Eigenvectors
+    * Single value decomposition
+
+2. DIFFERENTIAL CALCULUS
+    * Chain rule of differentiation
+    * Partial Derivatives
+    * Integrations
+    * Beta and gamma functions
+    * Functions of multiple variable, Limit, continuity, partial Derivatives
+    * Variants of optimizers
+    * Loss Functions
+    * Back propagation
+    * Minima and Maxima
+ 
+3. STATISTICS  
+    --TWO TYPES
+        i.  BASIC STATS
+            * Probability
+            * Introduction to basics
+            * Variables
+            * Population, Sample, population mean, sample mean
+            * Population distribution, sample distribution, sampling distribution
+            * Mean, median and Mode
+            * Range
+            * Measure of dispersion
+            * Variance
+            * Standard deviation
+            * Gaussian/Normal distribution 
+        ii. ADVANCE STATS 
+            * Q-Q plot
+            * Chebyshev's inequality
+            * Discrete and continuous distribution 
+            * Bernoulli and binomial distribution
+            * Log normal distribution
+            * Power law distribution
+            * Box Cox Transform
+            * Poisson distribution
+            * Applications of Non Gaussian distribution
+            * Z test, T test, chi square, Anova test  
+
+SOURCES FOR THIS:
+    1. 3Blue1Brown
+    2. Khan Academy
+
+Additional Mathematical Topics:
+    1. Advanced Linear Algebra:
+
+        * Tensor Calculus: Useful for deep learning frameworks.
+        * Matrix Decompositions: LU, QR decompositions for solving linear systems more efficiently.
+    
+    2. Advanced Calculus:
+        * Multivariable Calculus: Beyond partial derivatives, understanding gradients, divergence, curl.
+        * Vector Calculus: For fields and flow-related problems.
+    
+    3. Probability and Statistics:
+
+        * Bayesian Statistics: Bayesian inference, Markov Chain Monte Carlo (MCMC).
+        * Stochastic Processes: Poisson processes, Markov chains, and their applications in modeling time-series data.
+        * Hypothesis Testing: Beyond basic tests, understanding non-parametric tests and their applications.
+
+    4.Optimization:
+
+        * Convex Optimization: Convex sets, functions, optimization problems, duality.
+        * Non-Convex Optimization: Techniques for global optimization, evolutionary algorithms, simulated annealing.
+        
+    5. Information Theory:
+
+        * Entropy, Mutual Information: Understanding information gain, KL divergence, and their applications in feature  selection and machine learning algorithms.
